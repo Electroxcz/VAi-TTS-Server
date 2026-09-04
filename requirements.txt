@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+kokoro
+soundfile
+scipy
